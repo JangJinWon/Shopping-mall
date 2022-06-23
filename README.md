@@ -1,4 +1,4 @@
-# ![shopping-mall](https://user-images.githubusercontent.com/86398490/175332720-a6588e4a-8972-4e5f-b6fa-d71b12fed118.png) Shopping mall
+# ![shopping-mall](https://user-images.githubusercontent.com/86398490/175333851-19cf1bba-d7b7-4178-89e2-e9f8503bcf10.png) Shopping mall
 ### React를 활용한 쇼핑몰 사이트 입니다. </br>
 
 🗓️ 작업기간 : 2022. 06. 22 ~ 2022. 06. 23
