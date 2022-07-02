@@ -14,9 +14,9 @@
 ![Netlify](https://user-images.githubusercontent.com/86398490/176992869-fd5fe888-8692-4525-8761-47b20f30a6f1.png)
 ![Git](https://camo.githubusercontent.com/b38b8897560b3731eafccf44bf41f9450b71ec972a7759e0d104402403b51b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d2532334630353033332e7376673f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 
-[![쇼핑몰 메인 웹 페이지로 이동](https://charming-pavlova-1f276d.netlify.app/)](https://charming-pavlova-1f276d.netlify.app/)
+[쇼핑몰 메인 웹 페이지로 이동](https://charming-pavlova-1f276d.netlify.app/)
 
-![Shopping-mall-web-site](https://user-images.githubusercontent.com/86398490/175331230-4426bbc8-4bdd-4b9e-a39d-270543ad93ad.JPG)
+[![Shopping-mall-web-site](https://user-images.githubusercontent.com/86398490/175331230-4426bbc8-4bdd-4b9e-a39d-270543ad93ad.JPG)](https://charming-pavlova-1f276d.netlify.app/)
 
 ---
 
